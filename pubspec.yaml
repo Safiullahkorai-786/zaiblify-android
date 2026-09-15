@@ -1,5 +1,5 @@
 name: zaiblify
-description: A beautiful text styling companion for Android.
+description: A beautiful offline text styling companion by Zaib Labs.
 publish_to: "none"
 version: 0.1.0+1
 
@@ -19,6 +19,5 @@ dev_dependencies:
 
 flutter:
   uses-material-design: true
-  # Upload the final transparent logo to this path, then uncomment:
-  # assets:
-  #   - assets/branding/zaiblify_logo.png
+  assets:
+    - assets/branding/zaiblify_logo.png
